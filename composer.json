@@ -1,21 +1,21 @@
 {
-  "name": "payermax/sdk",
+  "name": "oktayaydogan/payermax-sdk",
   "description": "",
   "type": "library",
   "keywords": [
     "payermax",
     "sdk"
   ],
-  "homepage": "https://github.com/sebastianbergmann/dbunit/",
+  "homepage": "https://github.com/oktayaydogan/payermax-sdk",
   "license": "BSD-3-Clause",
   "authors": [
     {
-      "name": "zhangsan"
+      "name": "oktayaydogan"
     }
   ],
   "require": {
-    "php": "^7.1",
-    "guzzlehttp/guzzle":">=6.3"
+    "php": "^8.2",
+    "guzzlehttp/guzzle": ">=6.3"
   },
   "autoload": {
     "classmap": [
